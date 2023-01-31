@@ -1,0 +1,19 @@
+{
+  "model": {
+    "name": "Samsung",
+    "series": "QE75QN900BUXCE"
+  },
+  "warranty": 12,
+  "price": 700000,
+  "voiceSupport": "Google Assistant",
+  "audioFormat": [
+    "MP3",
+    "WMA",
+    "FLAC",
+    "AAC",
+    "M4A",
+    "APE",
+    "AIFF",
+    "ALAC"
+  ]
+}
